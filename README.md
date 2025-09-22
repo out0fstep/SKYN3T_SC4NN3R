@@ -5,12 +5,14 @@
 </p>
 
 <p align="center">
-  -=⟦ SKYN3T SC4NN3R is designed for the LilyGO S3 Display ⟧=-
+  -=⟦ SKYN3T SC4NN3R is designed for the LilyGO S3 Display (without screen but likely works with screen, but no code for it included..) ⟧=-
 </p>
 
 <p align="center">
   -=[ Created by: · <a href="https://github.com/out0fstep">out0fstep</a> ]=-
+</p>
 
+<p align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/github/downloads/out0fstep/Hack3r-T-Deck/total.svg?color=brightgreen)](https://github.com/out0fstep/Hack3r-T-Deck/releases)
@@ -20,6 +22,7 @@
 </p>
 
 ---
+
 
 ## 📡 Overview
 **Skyn3t Sc4nn3r** is an experimental Wi-Fi and Bluetooth scanning tool built for ESP32-S3 devices (LilyGO T-Deck and similar).  
