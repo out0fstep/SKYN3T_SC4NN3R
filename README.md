@@ -1,6 +1,8 @@
 # ☠️ Skyn3t Sc4nn3r
 
-![Logo](skull.png)
+<p align="center">
+  <img src="skull.png" alt="Logo" width="200"/>
+</p>
 
 ---
 
@@ -8,7 +10,9 @@
 **Skyn3t Sc4nn3r** is an experimental Wi-Fi and Bluetooth scanning tool built on the ESP32-S3 platform.  
 The project combines custom UI elements, real-time scan results, and a unique cyber-punk aesthetic for portable security research.
 
-![Screenshot](1000016183.jpg)
+<p align="center">
+  <img src="1000016183.jpg" alt="Screenshot" width="500"/>
+</p>
 
 ---
 
