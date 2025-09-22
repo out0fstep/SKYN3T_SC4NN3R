@@ -10,9 +10,7 @@
 
 <p align="center">
   -=[ Created by: · <a href="https://github.com/out0fstep">out0fstep</a> ]=-
-</p>
 
-<p align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 [![Downloads](https://img.shields.io/github/downloads/out0fstep/Hack3r-T-Deck/total.svg?color=brightgreen)](https://github.com/out0fstep/Hack3r-T-Deck/releases)
