@@ -15,10 +15,6 @@
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
     <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"/>
-  </a>
-  <a href="https://github.com/out0fstep/Skyn3t-Sc4nn3r/releases">
-    <img src="https://img.shields.io/github/downloads/out0fstep/Skyn3t-Sc4nn3r/total.svg?color=brightgreen" alt="Downloads"/>
-  </a>
   <a href="https://buymeacoffee.com/out0fstep">
     <img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-Buy%20Me%20a%20Coffee-yellow" alt="☕ Buy Me a Coffee"/>
   </a>
