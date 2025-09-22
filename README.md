@@ -1,4 +1,4 @@
-# ☠️ Skyn3t Sc4nn3r
+# ☠️ Skyn3t Sc4nn3r ☠️
 
 <p align="center">
   <img src="skull.png" alt="Skyn3t Logo" width="200" />
