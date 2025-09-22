@@ -8,7 +8,7 @@
 
 ## 📡 Overview
 **Skyn3t Sc4nn3r** is an experimental Wi-Fi and Bluetooth scanning tool built on the ESP32-S3 platform.  
-The project combines custom UI elements, real-time scan results, and a unique cyber-punk aesthetic for portable security research.
+The project combines custom UI elements, real-time scan results, and a unique cyber-punk aesthetic for portable security research. I cracked the screen on the device so this firmware is designed to run headless and it hosts a command page on a private AP. 
 
 <p align="center">
   <img src="1000016183.jpg" alt="Screenshot" width="500"/>
