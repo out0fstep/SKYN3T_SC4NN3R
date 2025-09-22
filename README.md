@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  -=⟦ SKYN3T SC4NN3R is designed for the LilyGO S3 Display (runs headless if the screen is cracked; screen support may work but is not included) ⟧=-
+  -=⟦ SKYN3T SC4NN3R is designed for the LilyGO S3 Display ⟧=-
 </p>
 
 <p align="center">
