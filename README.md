@@ -13,10 +13,18 @@
 </p>
 
 <p align="center">
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](https://img.shields.io/github/downloads/out0fstep/Hack3r-T-Deck/total.svg?color=brightgreen)](https://github.com/out0fstep/Hack3r-T-Deck/releases)
-[![☕️ Buy Me a Coffee](https://img.shields.io/badge/%E2%98%95%EF%B8%8F-Buy%20Me%20a%20Coffee-yellow)](https://buymeacoffee.com/out0fstep)
-[![Follow @DorkfeastTeam](https://img.shields.io/badge/follow-@DorkfeastTeam-1DA1F2?logo=x&logoColor=white)](https://x.com/DorkfeastTeam)
+  <a href="https://opensource.org/licenses/MIT">
+    <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License: MIT"/>
+  </a>
+  <a href="https://github.com/out0fstep/Hack3r-T-Deck/releases">
+    <img src="https://img.shields.io/github/downloads/out0fstep/Hack3r-T-Deck/total.svg?color=brightgreen" alt="Downloads"/>
+  </a>
+  <a href="https://buymeacoffee.com/out0fstep">
+    <img src="https://img.shields.io/badge/%E2%98%95%EF%B8%8F-Buy%20Me%20a%20Coffee-yellow" alt="☕ Buy Me a Coffee"/>
+  </a>
+  <a href="https://x.com/DorkfeastTeam">
+    <img src="https://img.shields.io/badge/follow-@DorkfeastTeam-1DA1F2?logo=x&logoColor=white" alt="Follow @DorkfeastTeam"/>
+  </a>
 </p>
 
 ---
