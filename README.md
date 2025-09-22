@@ -30,8 +30,7 @@
 ---
 
 ## 📡 Overview
-**Skyn3t Sc4nn3r** is an experimental Wi-Fi and Bluetooth scanning tool built for ESP32-S3 devices (LilyGO T-Deck and similar).  
-It pairs a distinctive cyber-punk UI with practical scanning features and a headless mode that serves a command page over a private AP — useful if your device display is cracked or you prefer remote control.
+**Skyn3t Sc4nn3r** is an experimental Wi-Fi and Bluetooth scanning tool built for ESP32-S3 devices (LilyGO T-Deck and similar). It pairs a distinctive cyber-punk UI with practical scanning features and a headless mode that serves a command page over a private AP — useful if your device display is cracked or you prefer remote control.
 
 <p align="center">
   <img src="1000016183.jpg" alt="Screenshot" width="500" />
