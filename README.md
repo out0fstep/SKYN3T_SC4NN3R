@@ -31,7 +31,7 @@
 
 ## 📡 Overview
 **Skyn3t Sc4nn3r** is an experimental Wi-Fi and Bluetooth scanning tool built for ESP32-S3 devices (LilyGO T-Deck and similar).  
-It pairs a distinctive cyber-punk UI with practical scanning features and a headless mode that serves a command page over a private AP — useful if your device display is cracked or you prefer remote control.
+It pairs a distinctive cyber-punk UI with practical scanning features and a headless mode that serves a command page over a private AP.
 
 <p align="center">
   <img src="1000016183.jpg" alt="Screenshot" width="500" />
@@ -42,16 +42,16 @@ It pairs a distinctive cyber-punk UI with practical scanning features and a head
 ## ✨ Features
 - 🔎 **Wi-Fi scanning** with channel, SSID and RSSI details  
 - 🔍 **Bluetooth scanning** for nearby devices and basic info  
-- 🎨 **Custom UI**: animated banners, icons, themed visuals (T-Deck style)  
-- ⚡ Lightweight and optimized for ESP32-S3 performance  
-- 🎛️ Headless mode with a small web UI hosted on a private AP for control/status
+- 🎨 **Custom UI**: animated banners, icons, themed visuals  
+- ⚡ Optimized for ESP32-S3 performance  
+- 🎛️ Headless mode with a small web UI on a private AP
 
 ---
 
 ## 🛠️ Hardware
 - ESP32-S3 Dev Board / LilyGO T-Deck (or compatible)  
-- OLED / TFT display (optional — headless operation supported)  
-- Optional external antennas for improved detection range
+- OLED / TFT display (optional — headless supported)  
+- Optional external antennas
 
 ---
 
@@ -61,22 +61,3 @@ It pairs a distinctive cyber-punk UI with practical scanning features and a head
 ```bash
 git clone https://github.com/yourusername/skyn3t-sc4nn3r.git
 cd skyn3t-sc4nn3r
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img
-  src="https://github-readme-stats.vercel.app/api?username=out0fstep&show_icons=true&bg_color=00000000&hide_border=true&title_color=c9d1d9&text_color=8b949e&icon_color=58a6ff"
-  alt="out0fstep GitHub Stats"><img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=out0fstep&layout=compact&bg_color=00000000&hide_border=true&title_color=c9d1d9&text_color=8b949e"
-  alt="Top Languages">
-
-## Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=out0fstep/Hack3r-T-Deck&type=Date)](https://www.star-history.com/#out0fstep/Hack3r-T-Deck&Date)
-
-</div>
-
