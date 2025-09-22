@@ -77,20 +77,6 @@ cd Skyn3t-Sc4nn3r
 
 <div align="center">
 
-  <!-- Repo stars, forks, issues -->
-  <a href="https://github.com/out0fstep/Skyn3t-Sc4nn3r/stargazers">
-    <img src="https://img.shields.io/github/stars/out0fstep/Skyn3t-Sc4nn3r?style=for-the-badge&logo=github&color=yellow" alt="GitHub Repo Stars"/>
-  </a>
-  <a href="https://github.com/out0fstep/Skyn3t-Sc4nn3r/network/members">
-    <img src="https://img.shields.io/github/forks/out0fstep/Skyn3t-Sc4nn3r?style=for-the-badge&logo=github&color=blue" alt="GitHub Repo Forks"/>
-  </a>
-  <a href="https://github.com/out0fstep/Skyn3t-Sc4nn3r/issues">
-    <img src="https://img.shields.io/github/issues/out0fstep/Skyn3t-Sc4nn3r?style=for-the-badge&logo=github&color=red" alt="GitHub Repo Issues"/>
-  </a>
-  <a href="https://github.com/out0fstep/Skyn3t-Sc4nn3r/pulls">
-    <img src="https://img.shields.io/github/issues-pr/out0fstep/Skyn3t-Sc4nn3r?style=for-the-badge&logo=github&color=brightgreen" alt="GitHub Pull Requests"/>
-  </a>
-
   <!-- Star history -->
   <br><br>
   <a href="https://www.star-history.com/#out0fstep/Skyn3t-Sc4nn3r&Date">
