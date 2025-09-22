@@ -5,11 +5,11 @@
 </p>
 
 <p align="center">
-  -=⟦ Hack3r T-Deck — custom UI firmware for the LilyGO T-Deck Plus ⟧=-
+  -=⟦ SKYN3T SC4NN3R is designed for the Lilygo S3 Display (without screen but likely works with screen, but no code for it included.. ⟧=-
 </p>
 
 <p align="center">
-  -=[ **Created by** · <a href="https://github.com/out0fstep">out0fstep</a> ]=-
+  -=[ Created by: · <a href="https://github.com/out0fstep">out0fstep</a> ]=-
 </p>
 
 <p align="center">
