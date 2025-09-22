@@ -1,4 +1,4 @@
-<h1 align="center">☠️ Skyn3t Sc4nn3r ☠️</h1>
+<h1 align="center">☠️ SKYN3T SC4NN3R ☠️</h1>
 
 <p align="center">
   <img src="skull.png" alt="Skyn3t Logo" width="200" />
